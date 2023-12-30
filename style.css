@@ -291,3 +291,29 @@ header span{
     border-radius: 5px;
     margin: 1%;
 }
+#hamburger{
+    display: none;
+}
+@media only screen and (max-width: 500px){
+    body{
+        width: 100%;
+    }
+    .hero-1-sub-1{
+        width: 70%;
+        margin-top: -20px;
+        margin-left: -30px;
+    }
+}
+@media only screen and (max-width: 1300px){
+    .hero-2{
+        display: none;
+    }
+    nav, #sign-in{
+        display: none;
+    }
+    #hamburger{
+        display: inline-block;
+        transition: all 1s ease-in;
+        font-size: 30px;
+    }
+}
