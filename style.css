@@ -109,6 +109,7 @@ header span{
     border-top-left-radius: 8px;
     border-bottom: 1px solid transparent;
     z-index: -1;
+    animation: hero-text-intro 1s ease-in;
 }
 .hero-2-head-sub-1{
     border-bottom: 1px solid rgb(63, 63, 63);
