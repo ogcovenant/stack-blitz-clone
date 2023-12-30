@@ -186,14 +186,14 @@ header span{
 }
 .hero-2-body-2{
     border-right: 1px solid rgb(63, 63, 63);
-    width: 62%;
-    padding: 15px;
+    width: 53%;
     height: 100%;
-    padding-left: 35px;
 }
 .hero-2-body-2-sub-1{
     height: 65%;
     margin-top: 30px;
+    padding: 15px;
+    padding-left: 35px;
 }
 .hero-2-body-2-sub-2{
     height: 35%;
@@ -206,4 +206,87 @@ header span{
     border: 1px solid rgb(71, 68, 68);
     padding: 0.4px;
     border-radius: 5px;
+}
+.hero-2-body-3{
+    width: 15%;
+}
+.hero-2-body-3-sub-1 .sec-1{
+    border: 1px solid rgb(71, 68, 68);
+    margin-top: 40px;
+    margin-left: 30px;
+    width: 105%;
+    padding: 10px;
+}
+.hero-2-body-3-sub-1 .sec-1 span{
+    display: inline-block;
+    width: 50%;
+    background-color: rgb(126, 43, 43);
+    border: 1px solid rgb(71, 68, 68);
+    border-radius: 5px;
+    margin-bottom: 3px;
+    margin-left: 6px;
+}
+.hero-2-body-3-sub-1 .sec-2{
+    border: 1px solid rgb(71, 68, 68);
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 105%;
+    padding: 10px;
+    height: 65%;
+    padding-bottom: 50px;
+}
+.hero-2-body-3-sub-1 .sec-2 span{
+    display: inline-block;
+    width: 80%;
+    background-color: rgb(126, 43, 43);
+    border: 1px solid rgb(71, 68, 68);
+    border-radius: 5px;
+    margin-bottom: 3px;
+    margin-left: 6px;
+}
+.hero-2-body-3-sub-1 .sec-3{
+    border: 1px solid rgb(71, 68, 68);
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 105%;
+    padding: 10px;
+}
+.hero-2-body-3-sub-1 .sec-3 span{
+    display: inline-block;
+    width: 50%;
+    background-color: rgb(126, 43, 43);
+    border: 1px solid rgb(71, 68, 68);
+    border-radius: 5px;
+    margin-left: 6px;
+}
+.hero-2-body-2-sub-2{
+    margin-top: 100px;
+    border-top: 1px solid rgb(63, 63, 63);
+    padding: 20px;
+}
+.hero-2-body-2-sub-2 span{
+    display: inline-block;
+    width: 25%;
+    background-color: rgb(63, 63, 63);
+    height: 10%;
+    border: 1px solid rgb(63, 63, 63);
+    padding: 0.5px;
+    border-radius: 5px;
+    margin: 3px;
+}
+.hero-2-body-3-sub-2{
+    width: 135%;
+    margin-top: 28px;
+    border-top: 1px solid rgb(63, 63, 63);
+    padding: 2%;
+    padding-left: 15%;
+}
+.hero-2-body-3-sub-2 span{
+    display: inline-block;
+    width: 25%;
+    background-color: rgb(63, 63, 63);
+    border: 1px solid rgb(63, 63, 63);
+    padding: 0.5px;
+    border-radius: 5px;
+    margin: 1%;
 }
